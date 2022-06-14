@@ -1,0 +1,9 @@
+package ConditionBlocks;
+
+public class SwitchBlock {
+	
+	public static void main (String[] args) {
+		
+	}
+
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-09T14:57:37 IST" name="Default suite" finished-at="2022-06-09T14:57:37 IST" duration-ms="35">
+    <groups>
+      <group name="RegressionTestcases">
+        <method signature="GroupsDemo.method2()[pri:0, instance:TestNG.GroupsDemo@31368b99]" name="method2" class="TestNG.GroupsDemo"/>
+      </group> <!-- RegressionTestcases -->
+      <group name="smokeTestcases">
+        <method signature="GroupsDemo.method1()[pri:0, instance:TestNG.GroupsDemo@31368b99]" name="method1" class="TestNG.GroupsDemo"/>
+        <method signature="GroupsDemo.method3()[pri:0, instance:TestNG.GroupsDemo@31368b99]" name="method3" class="TestNG.GroupsDemo"/>
+      </group> <!-- smokeTestcases -->
+    </groups>
+    <test started-at="2022-06-09T14:57:37 IST" name="Default test" finished-at="2022-06-09T14:57:37 IST" duration-ms="35">
+      <class name="TestNG.GroupsDemo">
+        <test-method signature="method1()[pri:0, instance:TestNG.GroupsDemo@31368b99]" started-at="2022-06-09T14:57:37 IST" name="method1" finished-at="2022-06-09T14:57:37 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method signature="method2()[pri:0, instance:TestNG.GroupsDemo@31368b99]" started-at="2022-06-09T14:57:37 IST" name="method2" finished-at="2022-06-09T14:57:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method signature="method3()[pri:0, instance:TestNG.GroupsDemo@31368b99]" started-at="2022-06-09T14:57:37 IST" name="method3" finished-at="2022-06-09T14:57:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+      </class> <!-- TestNG.GroupsDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
